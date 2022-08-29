@@ -1,0 +1,130 @@
+*{
+    background-color: aliceblue;font-family: Arial, Helvetica, sans-serif;font-size:large;text-align: center;
+}
+
+      
+   
+   
+    
+    
+    
+    
+    
+
+.header{
+    grid-area: header;   color: white;background-color: rgb(0, 0, 58);grid-column-start: 1;grid-column-end: 3;height: 10vh;text-align: center;padding: 20px;
+}
+.menu{
+    grid-area: menu;color: white ;background-color: palevioletred;height: 10vh;padding: 20px;
+}
+.hero{
+    grid-area: hero; background-color: rgb(0, 132, 255);color: white;height: 60px   ;padding: 70px;
+}
+.main{
+    grid-area: main; background-color: rgb(25, 25, 66);color: white;height: 40px;padding: 25px;
+    ;grid-column-end: 4;height: 30vh;
+}
+
+
+.image{
+   
+    grid-area: image;
+     background-color: rgb(144, 173, 164);padding: 25px;
+}
+.extra{
+    grid-area: extra; background-color:aquamarine;padding: 25px;
+}
+.banner{
+    grid-area: banner; background-color: rgba(255, 255, 0, 0.671);height: 50px;padding: 25px;
+}
+.first-container{
+    grid-template-areas: "header header menu menu menu menu menu "
+      "hero hero hero hero hero hero hero  " 
+      "main main main main main image image"
+       "main main main main main extra extra" 
+      "banner banner banner banner  banner banner banner";
+    display: grid;
+    
+    
+}
+@media only screen and (max-width: 480px) {
+
+    [class*="header"] {
+      grid-column-start: 1;
+      grid-column-end: 12;
+      width: 100%;
+      height: 50px;
+    }           
+}
+
+
+@media only screen and (max-width: 480px) {
+
+    [class*="menu"] {
+        grid-column-start: 1;
+        grid-column-end: 12;
+        width: 100%;
+        height: 50px;
+    }           
+}
+
+@media only screen and (max-width: 480px) {
+
+    [class*="hero"] {
+        grid-column-start: 1;
+        grid-column-end: 12;
+        grid-row-start: 2;
+        grid-row-end:3;
+        width: 100%;
+        height: 50px;
+    }           
+}
+
+@media only screen and (max-width: 480px) {
+
+    [class*="main"] {
+        grid-column-start: 1;
+        grid-column-end: 12;
+        width: 100%;
+        height: 50px;
+    }           
+}
+
+@media only screen and (max-width: 480px) {
+
+    [class*="banner"] {
+        grid-column-start: 1;
+        grid-column-end: 12;
+        width: 100%;
+        height: 50px;
+    }           
+}
+
+@media only screen and (max-width: 480px) {
+
+    [class*="extra"] {
+        grid-column-start: 1;
+        grid-column-end: 12;
+        width: 100%;
+        height: 50px;
+    }           
+}
+
+@media only screen and (max-width: 480px) {
+
+    [class*="image"] {
+        grid-column-start: 1;
+        grid-column-end: 12;
+        width: 100%;
+        height: 50px;
+    }           
+}
+
+
+
+
+
+
+
+
+

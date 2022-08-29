@@ -1,0 +1,84 @@
+*{
+    list-style: none;font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+.firstcontainer{
+    background-color: rgba(0, 0, 0, 0.842);padding: 100px;
+}
+.lo{
+    font-family: 'Roboto', sans-serif;
+color: white;text-align: center;}
+.pl{
+    text-align: center;color:yellow;
+}
+
+.a,.b{
+    display: inline-flex;color: white;
+}
+i{
+    color: orange;
+}
+
+.pl2{color: yellow;text-align: center;font-size: 20px;
+        
+}
+.lo2{
+    text-align: center;color: white;
+}
+
+.in{
+    display: inline-flex;color: white;
+}
+
+.seccontainer{
+    background-color: rgba(0, 0, 0, 0.911);padding: 50px;text-align: center;
+}
+.five,.two{
+    color: orange;
+}
+.ni{
+    color:orange;
+}
+.bu{
+    margin-left: 30px;padding: 10px;width: 80px;background-color: orange;border: none;
+}
+.in{
+    padding: 10px;
+}
+
+.third-container{
+    background-image: url("https://www.zdnet.com/a/img/resize/2f69e26fbcc5073edd2369915a34f0afff4f26b9/2022/05/05/d8b00c3c-562b-4e45-bcf7-328dcc991ad2/gettyimages-157752806-2.jpg?auto=webp&width=1200");padding: 80px;color: white;text-align: center;
+}
+
+.tex{
+    padding: 10px 70px 10px 10px;
+}
+
+
+.logo{
+      color: yellow;
+}
+
+.final{
+    padding: 20px;background-color: rgba(0, 0, 0, 0.842);
+}
+.sample-menu{
+    color: white;display: inline-flex;margin-left: 130px;
+}
+.mobile{
+    margin-left: 40px;
+}
+.menu{
+    margin-left: 30px;
+}
+
+.lite,.lite1,.lite2,.lite3,.lite4,.lite5{
+    color: rgba(121, 118, 118, 0.884);
+}
+.sn{
+    margin-left: 20px;
+}

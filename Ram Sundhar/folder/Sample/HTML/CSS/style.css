@@ -1,0 +1,5 @@
+body{background:red;}
+h1{color:white;text-align:center;}
+#ram{border:solid;height:200;width:200;border}
+#ramone{border:solid;height:200;width:200;margin-right:-600px;border-radius:50px;}
+#ram img{width:150px; height:150px;}

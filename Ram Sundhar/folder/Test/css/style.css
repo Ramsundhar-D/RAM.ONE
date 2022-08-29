@@ -1,0 +1,31 @@
+body
+{
+    background-color: black; 
+}
+
+.outbox
+{background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");height: 500px;width: 300px;background-size: cover;margin-left: 500px;border: 1px solid;
+}
+
+h1
+{
+    color: #5752ab; border-top-left-radius:8px ;border-top-right-radius:8px 
+}
+p
+{
+    background-color: white;padding: center;
+}
+.inbox
+{
+    margin-top: 400px;background-color: white;border-radius: 10px;
+}
+
+.v
+{
+    background-color: blueviolet;color: white;padding: 10px 20px 10px 20px;margin-left: 100px;border-radius: 8px;margin-bottom: 10px;
+}
+.o
+{
+    padding: 10px 20px 10px 20px;margin-left: 100px;border-radius: 8px;
+
+}

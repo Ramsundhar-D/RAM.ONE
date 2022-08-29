@@ -1,0 +1,23 @@
+h1{text-align:center;color: aliceblue;}
+
+div{background-image:url(https://qphs.fs.quoracdn.net/main-qimg-8b585fb4a5c9fedbb899cfb0cf0331a7-lq);background-repeat: no-repeat;width: 500px; }
+
+.para1{background-color: rgb(0, 131, 253);border-top-left-radius: 8px;padding: 20px;;text-align: right;color: aliceblue;margin: 20px;border-top-right-radius: 8px;border-bottom-left-radius: 8px}
+
+.para2{background-color: rgba(66, 67, 68, 0.397);border-top-left-radius: 8px;padding: 20px;text-align: left;color: aliceblue;margin: 20px;border-top-right-radius: 8px;border-bottom-right-radius: 8px}
+
+.para3{background-color: rgb(0, 131, 253);border-top-left-radius: 8px;padding: 20px;text-align: right;color: aliceblue;margin: 20px;border-top-right-radius: 8px;}
+
+.para4{background-color: rgba(66, 67, 68, 0.397);border-top-left-radius: 8px;padding: 20px;text-align: left;color: aliceblue;margin: 20px;}
+
+.para5{background-color: rgb(0, 131, 253);border-top-left-radius: 8px;padding: 20px;text-align: right;color: aliceblue;margin: 20px;border-top-right-radius: 8px;}
+
+.para6{background-color:rgba(66, 67, 68, 0.397);border-top-left-radius: 8px;padding: 20px;text-align: left;color: aliceblue;margin: 20px;}
+
+.para7{background-color: rgb(0, 131, 253);border-top-left-radius: 8px;padding: 20px;text-align: right;color: aliceblue;margin: 20px;border-top-right-radius: 8px;}
+
+.top{
+    margin: auto;
+}
+
+#spider{height:100%;width: 100%;}

@@ -1,0 +1,34 @@
+*{
+    color: white;font-size:100px;text-align: center;background-image: url("https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2016/11/11/1331828802784_2/ezio-auditore-is-coming-to-current-gen-consoles");background-repeat: no-repeat;background-size: cover;font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.i-1{
+    grid-area:My ;background-image:url("https://cdn.mos.cms.futurecdn.net/6AASRfvoMnXrKY9oJ7UmVE-1200-80.jpg") ;background-position: top;
+}
+.i-2{
+    grid-area:Name ;background-image:url("https://m.media-amazon.com/images/M/MV5BNWIzZTdiZWItYTAwYS00YWNiLThlZDEtNWU1N2E3OGJhNjhhXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg") ;
+}
+.i-3{
+    grid-area: is;background-image:url("https://cdn.wallpapersafari.com/79/81/M0Yy41.jpg") ;background-repeat: no-repeat;background-size: cover;
+}
+.i-4{
+    grid-area: Alex;background-image:url("https://images2.alphacoders.com/521/thumb-1920-521488.jpg") ;
+    background-position: bottom;
+}
+.i-5{
+    grid-area: Mercer;background-image:url("https://c4.wallpaperflare.com/wallpaper/41/815/824/infamous-second-son-wallpaper-preview.jpg") ;background-repeat: no-repeat;background-size: cover;
+}
+.gridtemp div{
+    padding: 90px;
+}
+.i-6{
+    
+}
+.gridtemp{
+    grid-template-areas: "My My My My My "
+    "Name is is is is "
+    "Alex Alex Alex Alex Alex"
+    "Mercer Mercer Mercer Mercer Mercer";
+    display: grid;padding: 10px;gap: 30px;display: inline-flex;
+}

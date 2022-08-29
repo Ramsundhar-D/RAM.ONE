@@ -1,0 +1,111 @@
+*{
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.container-1{
+    height: 700px;width: 1350px;border: 1px solid;background-image: url("https://images.unsplash.com/photo-1556438064-2d7646166914?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Z2FtZSUyMGRldmVsb3BtZW50fGVufDB8fDB8fA%3D%3D&w=1000&q=80");color: rgb(255, 255, 255);background-repeat: no-repeat;background-size: cover;background-position: center;
+}
+ul li{
+    list-style: none;
+}
+.page{
+    display: inline-flex;
+}
+.parent-element{
+    text-align: center;font-family: "Sofia", sans-serif;margin-top: 100px;font-size: 70px;
+}
+.In-publishing{
+    text-align: center;width: 20%;margin-left: 490px;margin-bottom: -10px;color: black;
+}
+.button1{
+    margin-left: 590px; padding: 8px;border-radius: 50px;color: rgb(0, 0, 150);background-color: white;border: none;
+}
+
+.topmenu li{
+    display: inline-block;
+    
+}
+.right{
+    margin-left: 600px;margin-top: -70px;
+
+}
+.home{
+    margin-right: 10px;text-decoration: underline;color: whitesmoke;
+}
+.contact{
+    margin-left: 20px;
+}
+.port{
+    margin-left: 20px;
+}
+.services{
+    margin-left: 20px;
+}
+.read{
+    margin-left: 560px;padding: 5px;border-radius: 50px; border: blue;
+}
+
+.story{
+    background-color: blue;width: 1080px;
+}
+
+.container-3{
+    display: inline-flex;height: 300px;padding-top: 20px;width: 1280px;color: white     ;
+}    
+.mission{
+    background-color: rgba(0, 0, 0, 0.719);text-align: center;
+}
+.vision{
+    background-color: blue;
+}
+.our-story{
+    text-align: center;
+    
+}
+.container-4{
+    text-align: center;
+}
+.web{
+    text-align: center;
+}
+table{
+    margin-left: 380px;
+}
+i{
+   font-size: 40px;
+   color: rgb(7, 116, 211) ;
+   padding-left: 50px;
+   padding-top: 20px;list-style: none;
+}
+.welcome{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+}
+p,h2{
+    text-align: center;
+}
+.all li{
+    display: inline-flex;
+}
+.clk{
+    padding-left: 150px;
+}
+.clk i{
+    color: white;
+}
+.target{
+    padding-right: 20px;
+        
+}
+.target i{
+    color: aliceblue;
+}
+.v i{
+    color: white;;
+}
+.v{
+   padding-left: 160px;
+}

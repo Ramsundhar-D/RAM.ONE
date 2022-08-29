@@ -1,0 +1,7 @@
+table,tr,th,td{
+    
+    border: 1px solid;border-collapse: separate;
+}
+table{
+    position: absolute;top: 50px;
+}

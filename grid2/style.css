@@ -1,0 +1,295 @@
+.col-1 { width: 8.33%; float: left; height: 50px;}
+
+.col-2 { width: 16.66%; float: left;}
+
+.col-3 { width: 25%; float: left; border: 1px solid black; height: 500px;}
+
+.col-4 { width: 33.33%; float: left; height: 50px;}
+
+.col-5 { width: 41.66%; float: left;}
+
+.col-6 { width: 50%; float: left; height: 150px; }
+
+.col-7 { width: 58.33%; float: left;}
+
+.col-8 { width: 66%; float: left;}
+
+.col-9 { width: 75%; float: left;}
+
+.col-10 { width: 83.33%; float: left;}
+
+.col-11 { width: 91.66%; float: left;}
+
+.col-12 { width: 100%; float: left; height: 50px; background-color: aliceblue; border: 2px solid black}
+
+
+body
+{
+
+    font-family: 'Roboto Slab', serif;
+}
+
+.bg1
+
+{
+    background-color:#293462;
+    margin-top: -50px;
+    box-sizing: border-box;
+}
+
+.bg1 ul li
+{
+    color:white;
+    font-size: 20px;
+    padding: 20px 0;
+    font-family: 'Roboto Slab', serif;
+
+}
+
+.ul2 h5
+{
+    font-family: 'Roboto Slab', serif;
+    color: white;
+    text-align: center;
+    margin-left: 25px;
+    text-decoration: underline 3px;
+}
+
+.ul2 ul li
+{
+    font-size: 20px;
+}
+
+.threedots
+{
+
+    color: white;
+}
+
+.bg1 h5
+{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    margin-right: 180px;
+    text-decoration: underline 5px;
+}
+
+.col-11 >div
+{
+    margin-top: 15px;
+    font-family: 'Roboto Slab', serif;
+    margin-left: 400px;
+    padding: 5px;
+    font-size: 10px;
+
+}
+
+.bg3
+{
+    /* margin-left: 20px; */
+}
+
+.list1
+
+{
+    margin-left: -25px;
+}
+
+.bg2
+{
+    box-sizing: border-box;
+    border: 1px solid black;
+
+    
+
+}
+.bg3
+
+{
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.bg4
+
+{
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+.bg2 ul li
+{
+    display: inline-block;
+    padding: 3px;
+    font-size: 12px;
+
+}
+.bg3 ul li
+{
+    display: inline-block;
+    padding: 3px;
+    font-size: 12px;
+
+}
+
+.bg4 ul li
+{
+    display: inline-block;
+    padding: 3px;
+    font-size: 12px;
+
+}
+.bg5 ul li
+{
+    display: inline-block;
+    padding: 3px;
+    font-size: 12px;
+    border: 1px solid black;
+
+}
+
+
+
+.bg5
+
+{
+    box-sizing: border-box;
+    border: 0.5px solid black;
+}
+
+.col6
+
+{
+    display: inline-flex;
+}
+
+.commit
+
+{
+
+    display: inline-flex;
+    margin-top: -20px;
+}
+.commit1>p
+
+{
+
+    font-size: 8px;
+    margin: 5px;
+    line-height: 20px;
+}
+
+.icon1
+
+{
+    font-size: 12px; 
+}
+.commit2>p
+{
+    font-size: 8px;
+    margin-left: 50px;
+
+    line-height: 20px;
+}
+
+.buttons
+
+{
+    display: inline-flex;
+    margin-top: 20px;
+    
+}
+
+.button1
+
+{
+    width: 60px;
+    height: 20px;
+    margin-left: 50px;
+    background-color: rgb(36, 36, 253);
+    color: white;
+ border:none;
+ font-weight: bolder;
+}
+
+.button2
+
+{
+    width: 60px;
+    height: 20px;
+    margin-left: 50px;
+    background-color:white;
+    color:black;
+    font-weight: bolder;
+
+}
+
+.footercommit
+
+{
+    margin-top: -650px;
+    margin-left: 50px;
+}
+
+.footercommit button
+{
+    width: 75px;
+    height: 35px;
+    background-color: rgba(190, 228, 233, 0.959);
+    border: none;
+    font-weight: bolder;
+    color: black;
+}
+
+.rightside
+
+{
+    border: 1px solid black;
+    margin-left: 661.10px;
+}
+
+@media only screen and (max-width:1024)
+{
+
+    [class*="col-"]{
+
+        width: 100%;
+
+
+
+    }
+}
+
+body
+{
+    box-sizing: border-box;
+}
+
+.bg6
+
+{
+ box-sizing: border-box;
+    background-color:white;
+    outline-style: groove;
+    margin-top: -50px;
+
+}
+
+.bg6 ul li
+
+{
+    list-style: none;
+    padding: 25px;
+}
+
+.centercontent
+
+{
+    padding-top: 200px;
+}
+
+.bgmid
+
+{
+    border: 1px solid black;
+}

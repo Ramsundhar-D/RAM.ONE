@@ -1,0 +1,60 @@
+*{
+    color: white;
+}
+
+
+.ac{
+    background-image: url("https://i.pinimg.com/736x/12/ac/e0/12ace04b228a985d80d65d57c2124f76.jpg");text-align: center;height: 250px;background-repeat: no-repeat;background-size: cover;height: 500px;font-family: Arial, Helvetica, sans-serif;
+}
+
+.proto{
+    background-image: url("https://i.pinimg.com/originals/68/85/ef/6885ef1dd7d38e7cf736872c3755eed1.jpg");background-size: cover;text-align: left;height: 250px;background-repeat: no-repeat;height: 500px;font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+.sd{
+    background-image: url("https://cdn.wallpapersafari.com/94/81/TyVjkK.jpg");height: 250px;background-size: cover;height: 500px;font-family: 'Times New Roman', Times, serif;
+}
+
+.b1{
+    color: black;
+}
+
+.b2{
+    color: black;
+}
+
+.b3{
+    color: black;
+}
+
+.ac p{
+    margin-top: 100px;
+}
+
+.proto p{
+    text-align: left;width: 200px;
+}
+
+.sd {
+    text-align: right;
+}
+
+.sd p{
+    width: 200px;margin-left: 1040px;
+}
+
+.sd h1{
+    margin-right: 20px;
+}
+
+.sd button{
+    margin-right: 20px;
+}
+
+
+@media only screen and (max-width:1020px) {
+    .proto{}
+    
+}

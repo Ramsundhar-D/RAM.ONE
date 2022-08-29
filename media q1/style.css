@@ -1,0 +1,52 @@
+
+body{
+    background-image: url("https://i.pinimg.com/originals/68/85/ef/6885ef1dd7d38e7cf736872c3755eed1.jpg");background-size: cover;text-align: left;height: 250px;background-repeat: no-repeat;height: 500px;font-family: 'Courier New', Courier, monospace;color: white;
+}
+p{
+    text-align: left;width: 200px;
+}
+button{
+    padding: 10px;width: 100px;
+}
+
+@media only screen and (max-width:500px) {
+    body{
+        background-image: url("https://i.pinimg.com/736x/12/ac/e0/12ace04b228a985d80d65d57c2124f76.jpg");font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color: bisque;background-position: center;
+    }
+    body p{
+        margin-left: 100px;margin-top: 200px;
+    }
+    body h1{
+       margin-left: 100px;
+    }
+    body button{
+        margin-left: 180px;
+    }
+
+}
+
+@media only screen and (min-width:720px) {
+    body{background-image: url("https://cdn.wallpapersafari.com/94/81/TyVjkK.jpg");background-size: cover;font-family: serif;color:aliceblue;width: 900px;height: 900px;
+        
+    }
+    body h1{
+        text-align: right;margin-right: 70px;
+    }
+    
+    .proto{
+        text-align: right;
+    }
+    p{
+       margin-left: 630px;
+    }
+    button{
+        margin-right: 190px;
+    }
+   
+
+}
+
+    
+
+
+

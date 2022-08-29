@@ -1,0 +1,97 @@
+.col-1{
+    width:8.33%;float:left;
+}
+
+.col-2{
+    width:16.66%;float:left;
+}
+
+.col-3{
+    width:25%;float:left;
+}
+
+.col-4{
+    width:33.33%;float:left;
+}
+
+.col-5{
+    width:41.66%;float:left;
+}
+
+.col-6{
+    width:50%;float:left;
+}
+
+.col-7{
+    width:58.33%;float:left;
+}
+
+.col-8{
+    width:66.66%;float:left;
+}
+
+.col-9{
+    width:75%;float:left;
+}
+
+.col-10{
+    width:83.33%;float:left;
+}
+
+.col-11{
+    width:91.66%;float:left;
+}
+
+.col-12{
+    width:100%;float:left;
+}
+
+.buddy{
+    grid-area: Buddy;
+}
+.home{
+    grid-area: home;
+}
+.dashboard{
+    grid-area: dashboard;
+}
+.inbox{
+    grid-area: inbox;
+}
+.container-1{
+    background-color: blue;color: white;
+}
+
+.commit
+
+{
+    display: inline-flex;
+}
+
+.commit1
+
+{
+
+    margin: 8px;
+
+}
+
+.commit2
+
+{
+    margin: 8px;
+}
+
+.buttons
+
+{
+    margin-top: 50px;
+    display: inline-flex;
+
+}
+
+.button1
+
+{
+    margin: 5px;
+}

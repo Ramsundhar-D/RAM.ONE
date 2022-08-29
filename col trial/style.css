@@ -1,0 +1,187 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;list-style: none;
+}
+
+
+
+.col-1{
+    width:8.33%;float:left;
+}
+
+.col-2{
+    width:16.66%;float:left;
+}
+
+.col-3{
+    width:25%;float:left;
+}
+
+.col-4{
+    width:33.33%;float:left;
+}
+
+.col-5{
+    width:41.66%;float:left;
+}
+
+.col-6{
+    width:50%;float:left;
+}
+
+.col-7{
+    width:58.33%;float:left;
+}
+
+.col-8{
+    width:66.66%;float:left;
+}
+
+.col-9{
+    width:75%;float:left;
+}
+
+.col-10{
+    width:83.33%;float:left;
+}
+
+.col-11{
+    width:91.66%;float:left;
+}
+
+.col-12{
+    width:100%;float:left;
+}
+
+.container-1{
+    background-color: rgb(0, 0, 43);color: white;height: 630px;padding-bottom: 20px;
+}
+
+.container-1>h1{
+    background-color: rgb(0, 0, 43);color: white;;
+}
+
+.container-1 li{
+    margin: 20px;list-style: none
+}
+.container-1 p{
+    text-align: center;
+}
+
+.container-2 li{ 
+
+display: inline-block;margin-right: 30px;margin-left: 20px;
+
+}
+
+.container-1 h1:hover{
+    color: brown;
+}
+
+.container-2 input{
+    margin-right: 50px;
+}
+
+.container-2 label{
+    margin-left: 50px;
+
+}
+
+hr{
+    border: 1px solid rgb(25, 27, 160);
+}
+
+.creative{
+    margin-left: 20px;margin-top: 60px;
+}
+
+.round{
+    color: yellow;font-size: xx-small;padding-left: 1px;padding-right: 4px;
+}
+
+.round-1{
+    color: green;font-size: xx-small;padding-left: 1px;padding-right: 4px;
+}
+
+
+.round-2{
+    color: rgb(0, 255, 217);font-size: xx-small;padding-left: 1px;padding-right: 4px;
+}
+
+
+.round-3{
+    color: rgb(213, 70, 70);font-size: xx-small;padding-left: 1px;padding-right: 4px;
+}
+.bud{
+    color: rgb(92, 4, 163);
+}
+
+.buddy-1{
+    border: 2px solid;margin-top: 50px;padding-bottom: 20px;margin-left: 20px;width: 180px;
+}
+
+/* .ep{
+    border: 1px solid;
+} */
+
+.c-1{
+    margin-left: 200px;margin-top: -48px;
+
+}
+
+.div-4{
+    display: inline-flex;margin-right: 10px;font-size: xx-small;
+}
+
+/* .container-3{
+    
+    border: 2px solid;
+} */
+
+.div-4 >.st{
+    margin-right: 30px;
+}
+
+
+.row{
+    display: inline-flex;
+}
+.container-3 li{
+   padding-top: 50px;
+}
+
+button{
+    margin-left: 30px;margin-top: 50px;
+}
+
+/* 
+.mn{
+    margin-left: 80px;
+}
+
+.rn{
+    margin-left: 75px
+}
+.mt{
+    margin-right: 10px */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
