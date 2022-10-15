@@ -1,0 +1,31 @@
+ .bc{
+  background-color: black;color: white; border: 10px; text-align: center;border-radius: 10px;
+}
+
+#one{
+ background-color: azure;
+ margin-left:500px;margin-top: 20px;
+}
+#two{
+    background-color:aquamarine ;
+}
+
+#the{
+    background-color: aqua;
+}
+
+#four{
+    background-color: blueviolet;
+}
+
+h1 , .try{
+    text-align: center;
+}
+
+.try{
+    margin-right: 40px;margin-top: 20px;
+} 
+
+/* #img1{
+    background-image: url("https://cdn.vox-cdn.com/thumbor/SqaPV6XCLdKY6lw_Ch4qINOxOZI=/0x0:1600x900/1400x933/filters:focal(1266x101:1522x357):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69986226/MortalKombatX_Scorpion_Sidewinder.0.jpg");background-size:cover;
+} */

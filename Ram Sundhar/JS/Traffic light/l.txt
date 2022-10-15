@@ -1,0 +1,7 @@
+traffic light -
+
+"https://images.pexels.com/photos/46287/traffic-lights-road-sign-red-yellow-46287.jpeg?auto=compress&cs=tinysrgb&w=600"
+
+
+bg -
+"https://www.color-meanings.com/wp-content/uploads/Dark-red-sparkles-on-black-background-1024x529.jpeg"

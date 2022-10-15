@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+.button .on ,#off  {
+    width: 60px;margin-left: 500px;margin-left: 200px;
+}
+
+
+.bor{
+    border: 20px; border-color: white;
+
+}
+
+.bulb-on{
+    margin-left: 200px;
+}
+
+#cat ,#dc{
+    height: 200px;margin-left: 450px;
+}
+
+#b-on ,#b-off{
+    height: 200px;margin-left: 285px;
+}
+
+.button{
+        margin-left: 285px;
+}
+
+/* .button #on{
+    margin-right: 200px;
+}
+ */
+
+
